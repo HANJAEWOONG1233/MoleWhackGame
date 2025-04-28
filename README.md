@@ -2,14 +2,12 @@
 # Unity  기반 **Mole Whack Game** 🎯  
 (두더지 잡기 게임)
 
-> 20231081 한재웅 &nbsp;|&nbsp; Software Principles / Software Fundamentals Project
-
 ---
 
 ## 📖 프로젝트 개요
 Unity 엔진으로 클래식 아케이드 게임 ‘두더지 잡기(Whac-A-Mole)’를 재해석했습니다.  
 제한 시간 내 구멍에서 무작위로 등장하는 두더지를 클릭(또는 터치)해 점수를 획득하며,  
-**다양한 타입**의 두더지와 **콤보 시스템**, **시청각 피드백**(파티클·카메라 흔들림·사운드)이 핵심 재미 요소입니다. :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}  
+**다양한 타입**의 두더지와 **콤보 시스템**, **시청각 피드백**(파티클·카메라 흔들림·사운드)이 핵심 재미 요소입니다. 
 
 ## 🎯 목표
 | 단계 | 설명 |
