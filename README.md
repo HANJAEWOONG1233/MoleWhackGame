@@ -41,24 +41,6 @@ https://github.com/user-attachments/assets/84876382-ec20-4f2f-92fc-6308e033b605
     *   Unity Editor 상단 메뉴에서 `File` > `Open Scene` 을 선택하여 `Assets/Scenes/Intro.unity` 씬을 연 후, Play 버튼을 눌러 게임을 실행할 수 있습니다.
     *   Android 기기에서 실행하려면, `File` > `Build Settings` 에서 `Android` 플랫폼을 선택하고 `Switch Platform` (필요시)을 클릭한 후, `Build` 버튼을 눌러 `.apk` 파일을 생성합니다. 생성된 `.apk` 파일을 기기로 옮겨 설치합니다.
 
-## 스크린샷
-
-<!-- Intro 씬 스크린샷Placeholder -->
-**Intro Scene**
-![Intro Scene Screenshot](path/to/intro_scene_screenshot.png)
-
-<!-- 게임 플레이 스크린샷 Placeholder 1 -->
-**Gameplay**
-![Gameplay Screenshot 1](path/to/gameplay_screenshot_1.png)
-
-<!-- 게임 플레이 스크린샷 Placeholder 2 (다른 색 두더지 또는 효과 포함) -->
-**Gameplay with Effects**
-![Gameplay Screenshot 2](path/to/gameplay_screenshot_2.png)
-
-<!-- Game Over 씬 스크린샷 Placeholder -->
-**Game Over Scene**
-![Game Over Scene Screenshot](path/to/game_over_scene_screenshot.png)
-
 ## 사용 기술 및 에셋
 
 *   Unity 2021.1.7f1
