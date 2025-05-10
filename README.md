@@ -97,21 +97,5 @@ https://github.com/user-attachments/assets/b0f18cbf-469b-488d-803e-6c14a73a6aa6
 이 프로젝트는 [MIT License](<YOUR_REPO_LICENSE_URL>)를 따릅니다. 자세한 내용은 `LICENSE` 파일을 확인하세요.
 
 
-## 프로젝트 구조
-
-Assets/
-├─ Audio/ # SFX (Free Casual Game SFX Pack)
-├─ Materials/ # 바닥·두더지·망치 등 머티리얼
-├─ Prefabs/ # Mole, Hole, Hammer, Particle 이펙트
-├─ Scenes/
-│ ├─ Intro.unity # 타이틀 및 Press Any Key 씬
-│ ├─ Game.unity # 메인 게임 플레이
-│ └─ GameOver.unity# 결과 & 로컬 랭킹
-├─ Scripts/
-│ ├─ Gameplay/ # GameController, MoleFSM, Hammer, ...
-│ ├─ UI/ # InGameTextViewer, FadeTMP, RankSystem
-│ └─ Core/ # Movement3D, ObjectDetector 등
-└─ Plugins/ # TextMeshPro 외 외부 패키지
-
 
 
