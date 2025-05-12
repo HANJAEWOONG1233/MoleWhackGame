@@ -78,7 +78,7 @@
 
 ## 완성 영상
 
-https://youtu.be/S2aUFubHMBk
+https://youtu.be/wjlFuCIrNzQ
 
 
 
