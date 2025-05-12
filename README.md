@@ -40,7 +40,7 @@
 
 ## 설치 & 실행
 
-필요 환경: Unity 2021.1.7f1 (이상) + Android Build Support 옵션
+필요 환경: Unity 2021.3.45 (이상) + Android Build Support 옵션
 
 1.  **저장소 클론**
     ```bash
