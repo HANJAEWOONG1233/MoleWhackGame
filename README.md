@@ -79,11 +79,6 @@
 ## 완성 영상
 
 
-https://github.com/user-attachments/assets/b0f18cbf-469b-488d-803e-6c14a73a6aa6
-
-
-https://github.com/user-attachments/assets/f25ee369-232b-439c-af57-b4e4a1c446fc
-
 
 
 
