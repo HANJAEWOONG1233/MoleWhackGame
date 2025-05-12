@@ -86,7 +86,7 @@ https://github.com/user-attachments/assets/b0f18cbf-469b-488d-803e-6c14a73a6aa6
 
 ## 사용 기술 및 에셋
 
-*   Unity 2021.1.7f1 (C#)
+*   Unity 2021.3.45 (C#)
 *   TextMeshPro – 고해상도 UI 텍스트
 *   Free Casual Game SFX Pack – 타격 & UI 사운드
 *   PlayerPrefs – 오프라인 랭킹 저장
