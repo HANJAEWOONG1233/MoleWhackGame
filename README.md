@@ -1,3 +1,10 @@
+게임 파일 전체 링크입니다 : 
+
+https://drive.google.com/file/d/1OOhtxeaL01o_EMrvGf9Bhg7q11I6kYNZ/view?usp=sharing
+
+
+
+
 # Whac-A-Mole 3D (Unity 2021.3.45)
 
 두더지를 잡고, 콤보를 쌓고, 기록을 갱신하세요! 이 저장소는 튜토리얼 시리즈를 따라 개발한 3D 두더지 잡기(Whac-A-Mole) 게임의 완성 프로젝트입니다. PC와 Android에서 모두 플레이할 수 있으며, 간단한 코드 베이스로 다양한 기능(콤보, 타이머, 세이브 데이터 랭킹 등)을 학습할 수 있습니다.
